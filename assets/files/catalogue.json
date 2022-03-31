@@ -1,68 +1,68 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "iPhone 12 Pro",
-      "desc": "Apple iPhone 12th generation",
-      "price": 999,
-      "color": "#33505a",
-      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
-    },
-    {
-      "id": 2,
-      "name": "Pixel 5",
-      "desc": "Google Pixel phone 5th generation",
-      "price": 699,
-      "color": "#00ac51",
-      "image": "https://www.telstra.com.au/content/dam/tcom/lego/2020/plans-devices/mobiles/google-pixel-5/shared-google-pixel-5-black-05-900x1200.png"
-    },
-    {
-      "id": 3,
-      "name": "M1 Macbook Air",
-      "desc": "Apple Macbook air with apple silicon",
-      "price": 1099,
-      "color": "#e0bfae",
-      "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP825/macbookair.png"
-    },
-    {
-      "id": 4,
-      "name": "Playstation 5",
-      "desc": "Sony Playstation 5th generation",
-      "price": 500,
-      "color": "#544ee4",
-      "image": "https://i1.wp.com/freepngimages.com/wp-content/uploads/2020/07/Playstation-5-games-console-transparent-background-png-image.png?fit=1000%2C1000"
-    },
-    {
-      "id": 5,
-      "name": "Airpods Pro",
-      "desc": "Apple Aipods Pro 1st generation",
-      "price": 200,
-      "color": "#e3e4e9",
-      "image": "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
-    },
-    {
-      "id": 6,
-      "name": "iPad Pro",
-      "desc": "Apple iPad Pro 2020 edition",
-      "price": 799,
-      "color": "#f73984",
-      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
-    },
-    {
-      "id": 7,
-      "name": "Galaxy S21 Ultra",
-      "desc": "Samsung Galaxy S21 Ultra 2021 edition",
-      "price": 1299,
-      "color": "#1c1c1c",
-      "image": "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
-    },
-    {
-      "id": 8,
-      "name": "Galaxy S21",
-      "desc": "Samsung Galaxy S21 2021 edition",
-      "price": 899,
-      "color": "#7c95eb",
-      "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
-    }
-  ]
+    "products": [
+        {
+            "id": 1,
+            "name": "Pizza",
+            "desc": "7 cheesy pizza",
+            "price": 650,
+            "color": "#33505a",
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_312,h_196,c_fill/pbpdz58niw5q85kjuoaz"
+        },
+        {
+            "id": 4,
+            "name": "Burger",
+            "desc": "4 Layer ",
+            "price": 200,
+            "color": "#544ee4",
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Hotdog",
+            "desc": "6 inch Veg Hotdog",
+            "price": 150,
+            "color": "#e3e4e9",
+            "image": "https://i.ytimg.com/vi/Oq-ZPiqHJz4/maxresdefault.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Gujarati Plate",
+            "desc": "30+ Items",
+            "price": 400,
+            "color": "#f73984",
+            "image": "https://i.pinimg.com/600x315/a4/f2/db/a4f2dbaa26a6b93ca35d882a3a0ed679.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Punjabi Plate",
+            "desc": "Full Meal",
+            "price": 300,
+            "color": "#1c1c1c",
+            "image": "https://i.ytimg.com/vi/siaCohmAX-w/hqdefault.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Kathiyavadi Subzi",
+            "desc": "Unique Item",
+            "price": 250,
+            "color": "#7c95eb",
+            "image": "https://img-global.cpcdn.com/recipes/240499537a14ac6a/680x482cq70/%E0%A4%95%E0%A4%A0%E0%A4%AF%E0%A4%B5%E0%A4%A1-%E0%A4%97%E0%A4%B0%E0%A4%A8-%E0%A4%85%E0%A4%A8%E0%A4%AF%E0%A4%A8-%E0%A4%B8%E0%A4%B5-%E0%A4%B8%E0%A4%AC%E0%A4%9Ckathiyawadi-green-onion-sev-sabzi-recipe-in-hindi-%E0%A4%B0%E0%A4%B8%E0%A4%AA-%E0%A4%AE%E0%A4%96%E0%A4%AF-%E0%A4%A4%E0%A4%B8%E0%A4%B5%E0%A4%B0.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Punjabi Sabzi",
+            "desc": "From Mehfil",
+            "price": 220,
+            "color": "#00ac51",
+            "image": "https://www.tarladalal.com/members/9306/procstepimgs/mixed-vegetable-subzi_dsc4191-(32)-23-185878.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Panner Chilli",
+            "desc": "Spicy Item",
+            "price": 150,
+            "color": "#e0bfae",
+            "image": "https://www.manjulaskitchen.com/wp-content/uploads/chilli_paneer.jpg"
+        }
+    ]
 }
