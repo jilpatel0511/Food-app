@@ -12,6 +12,10 @@ class HomeDetailPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        title: Text('Description',style: TextStyle(
+          fontWeight: FontWeight.bold,
+          color: Colors.black,
+        ),),
         backgroundColor: Colors.transparent,
       ),
       backgroundColor: context.canvasColor,
